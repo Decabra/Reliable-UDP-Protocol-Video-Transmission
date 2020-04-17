@@ -9,7 +9,6 @@
 ## receiver: 
 ./obj_file [ file_name ] [ port_no ]
 ### used command
-   gcc VideoReceiver.c -o recv
-   
-   ./recv outfile.mp4 15055
+   	gcc VideoReceiver.c -o recv
+   	./recv outfile.mp4 15055
    
